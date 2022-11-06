@@ -1,0 +1,2 @@
+[21-Oct-2022 05:58:59 America/New_York] PHP Warning:  file_get_contents(inc/secrets.php): failed to open stream: No such file or directory in /home/kourqwlm/6ixthchan.kouros.network/inc/functions.php on line 125
+[21-Oct-2022 17:03:14 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type bool in /home/kourqwlm/6ixthchan.kouros.network/inc/mod/auth.php on line 146
